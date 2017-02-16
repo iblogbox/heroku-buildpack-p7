@@ -25,6 +25,7 @@ cp -r "$SOURCE_DIR/p7zip" "$VENDOR_DIR"
 chmod +x "$VENDOR_DIR/p7zip/bin/7z"
 chmod +x "$VENDOR_DIR/p7zip/bin/7za"
 chmod +x "$VENDOR_DIR/p7zip/bin/unrar"
+chmod +x "$VENDOR_DIR/p7zip/bin/lzop"
 
 #mkdir -p /app/bin/temp
 #mkdir -p /app/vendor/unrar/bin
